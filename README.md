@@ -1,7 +1,9 @@
 # Supreme Injector
 A powerful and portable, easy-to-use DLL injector!
 
-Supreme Injector is almost ready to be released. Official download links will be coming soon.
+Supreme Injector is released! You can download it here:
+
+https://guidedhacking.com/threads/introducing-supreme-injector.11122/
 
 # Improvments
 You can submit issues about Supreme Injector in github or tell me about them once the offical download links come out.
